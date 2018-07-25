@@ -53,4 +53,12 @@ public class UserDao {
 		}
 		return u;
 	}
+	/**
+	 * зЂВс
+	 * @param users
+	 */
+	public void register(User users) {
+		// TODO Auto-generated method stub
+		
+	}
 }
